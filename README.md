@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi!
+My name is Corday Davis and I am a Computer Science Junior at the University of Central Florida with interests in AI and Machine learning.
+My goal is to become a full time software engineer after I graduate in Spring 2027.
+
+Currently I am learning Frontend Development including integrating API's and professional UI's. 
+I am a member of an organization called Knight Hacks @ UCF, where I am collaborating with
+other students this semester in a Project Launch competition. There is a lot to learn.
+
+Fun fact: I work in the medical field now in Imaging, but am always looking to branch out
+into new topics/activities (and careers)!
 
 <!--
 **cdavis190/cdavis190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
